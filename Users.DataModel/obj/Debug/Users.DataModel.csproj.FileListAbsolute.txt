@@ -1,0 +1,13 @@
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\Users.DataModel.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\Users.DataModel.pdb
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Bson.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.Core.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Bson.xml
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.xml
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.Core.xml
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\obj\Debug\Users.DataModel.csprojResolveAssemblyReference.cache
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\obj\Debug\Users.DataModel.dll
+D:\Minja\GitHubProjects\DailyGoals_WebAPI\Users.DataModel\obj\Debug\Users.DataModel.pdb
